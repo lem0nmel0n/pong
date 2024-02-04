@@ -1,4 +1,4 @@
-name: Purple Pong
+name: purplepong
 version: 1
 summary: purplepong
 description: |
@@ -9,7 +9,7 @@ confinement: devmode
 base: core18
 
 parts:
-  Purple Pong:
+  purplepong:
     plugin: python
     python-version: python3
     source: https://github.com/lem0nmel0n/pong.git    
